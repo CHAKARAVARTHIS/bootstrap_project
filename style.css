@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif !important;
+}
+.container{
+    display: flex !important;
+}
+.villa{
+   font-weight: 600 !important;
+    font-size: 40px !important;
+}
+.myhome{
+    color:#f45626 !important;
+    font-size: 20px !important;
+}
+.similar{
+    color: #1d1d1d !important;
+    font-weight: 400px !important;
+    font-size: 20px !important;
+}
+.btn{
+    border-radius: 20px !important;
+    color:white !important;
+    background-color: #1d1d1d !important;
+    padding:5px !important;
+    font-size: 20px !important;
+    
+}
+.btn:hover{
+    color: #f45626 !important;
+}
+.similar:hover{
+color: #f45626 !important;
+}
+
+.text1 h1{
+    font-size: 63px !important;
+    bottom: 20px;
+}
+.text1 h3{
+    font-size: 16px !important;
+    background-color: white !important;
+    color: #1d1d1d;
+    padding: 10px;
+    width: 30vh;
+}
+span{
+    color: #f45626 !important;
+}
+.position{
+    left: 50vh!important;
+}
